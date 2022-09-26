@@ -1,4 +1,4 @@
-# sobre turba! comunicación
+# turba! comunicación
 
 Hola! somos turba! Una agencia de comunicación ética, ecofeminista y social.
 
