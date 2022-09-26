@@ -4,7 +4,7 @@
 
 Hola! somos **turba!** 💚💛💜 Una agencia de **comunicación ética**, **ecofeminista** y **social**.
 
-👉 Si quieres saber más de nosotras puedes visitar [**turbacomunicacion.com**](https://turbacomunicacion.com) 👈
+Si quieres saber más de nosotras puedes visitar 👉 [**turbacomunicacion.com**](https://turbacomunicacion.com) 👈
 
 o echar un vistazo 👀 a nuestras redes sociales:
 
