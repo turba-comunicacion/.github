@@ -6,12 +6,8 @@ Si quieres saber más de nosotras puedes visitar [nuestra web](https://turbacomu
 
 o echar un vistazo a nuestras redes sociales
 
-[![twitter](https://turbacomunicacion.com/mail/twitter.png)twitter](https://twitter.com/turba_com)
-
-[![linkedin](https://turbacomunicacion.com/mail/linkedin.png)linkedin](https://www.linkedin.com/company/turba-com)
-
-[![mastodon](https://turbacomunicacion.com/mail/mastodon.png)mastodon](https://mstdn.social/web/@turba_com)
-
-[![instagram](https://turbacomunicacion.com/mail/instagram.png)instagram](https://www.instagram.com/turba_com/)
-
-[![telegram](https://turbacomunicacion.com/mail/telegram.png)telegram](https://t.me/turba_com)
+[<img src="(https://turbacomunicacion.com/mail/twitter.png)" alt="twitter" width="40"/>](https://twitter.com/turba_com)
+[<img src="(https://turbacomunicacion.com/mail/linkedin.png)" alt="linkedin" width="40"/>](https://www.linkedin.com/company/turba-com)
+[<img src="(https://turbacomunicacion.com/mail/mastodon.png)" alt="mastodon" width="40"/>](https://mstdn.social/web/@turba_com)
+[<img src="(https://turbacomunicacion.com/mail/instagram.png)" alt="instagram" width="40"/>](https://www.instagram.com/turba_com/)
+[<img src="(https://turbacomunicacion.com/mail/telegram.png)" alt="telegram" width="40"/>](https://t.me/turba_com)
